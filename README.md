@@ -4,8 +4,7 @@ A real-time attendance system that uses facial recognition through a webcam to a
 
 ## Demo
 
-![App demo 1](demo/Screenshot1.png)
-![App demo 2](demo/Screenshot2.png)
+[Click here to view demo screenshots](DEMO.md)
 
 ## Features
 - Real-time face detection and recognition via webcam
